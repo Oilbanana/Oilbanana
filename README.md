@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oilbanana
 - 👀 I’m interested in IT technologies and learning in BMSTU 🏬 
-- 🌱 I’m currently learning C++, HTML, Lazarus
+- 🌱 I’m currently learning C, Lazarus
 - ✉️ mail: oilbanana56@gmail.com
 - 📪 tg: @oilbanana
 - 👕 inst: @oilbanana

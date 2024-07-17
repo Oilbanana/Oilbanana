@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Oilbanana
-- 👀 I’m interested in IT technologies and studying in BMSTU 🏬 
 - 🌱 I’m currently learning Java. Already know Pascal, Python. 
 - ✉️ mail: stasikshionidi@gmail.com
 - 📪 tg: @oilbanana
